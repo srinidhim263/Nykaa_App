@@ -115,6 +115,7 @@ const ProductComponent = () => {
                             Details
                           </button>
                           <Link to={"/cart"}>
+
                             
                           <button
                           
