@@ -91,6 +91,7 @@ const ProductComponent = () => {
                           <span class="text-primary"> • </span>
                           <span>
                             100% skin protection
+                            
                             <br />
                           </span>
                         </div>
