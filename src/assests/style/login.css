@@ -1,0 +1,28 @@
+.loginContainer {
+  background: rgb(15, 15, 15);
+  width: 350px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: #fff;
+  padding: 2em;
+}
+.heading {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+.box {
+  margin: 0.2em 0;
+}
+.logincontainer .box p {
+  color: rgba(255, 255, 255, 0.701);
+}
+
+.loginBtn {
+  transform: translate(-1%);
+  cursor: pointer;
+  color: #fff;
+  background: linear-gradient(to right, #ff416c, #ff4b2b);
+  transition: all 0.5s;
+}
